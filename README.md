@@ -1,6 +1,6 @@
 # 📊 Value at Risk (VaR) Models 📈
 
-Value at Risk (VaR) calcluations of stocks on the Australian Stock Exchange (ASX).
+Value at Risk (VaR) calculations of stocks on the Australian Stock Exchange (ASX).
 
 The file AUSONGMonteCarlo.ipynb calculates the Value at Risk of a hypothetical portfolio of the following stocks for an initial investment of 1 million AUD at the 95% Confidence Interval:
 
